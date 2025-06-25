@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "13210723636",
+    "project_id": "todolist-99416",
+    "storage_bucket": "todolist-99416.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13210723636:android:9f89a067dd8a4fe272b161",
+        "android_client_info": {
+          "package_name": "com.example.dun_tech_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13210723636-neog7715rcjso0b9218b4o2ao8vudiqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMn4HJdyuDOlcdDMyMzkmU5D7Tfb39Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13210723636-neog7715rcjso0b9218b4o2ao8vudiqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "13210723636-qvlohnqkig5hp8bjqdsretdnop06v6pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dunTechInterview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13210723636:android:915ccd5d84ff050372b161",
+        "android_client_info": {
+          "package_name": "com.example.todogoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13210723636-neog7715rcjso0b9218b4o2ao8vudiqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMn4HJdyuDOlcdDMyMzkmU5D7Tfb39Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13210723636-neog7715rcjso0b9218b4o2ao8vudiqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "13210723636-qvlohnqkig5hp8bjqdsretdnop06v6pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dunTechInterview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
